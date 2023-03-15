@@ -1,2 +1,3 @@
-console.log(localStorage.getItem('name'));
-console.log(document.cookie);
+localStorage.setItem('name','pree');
+localStorage.setItem('name','preetha');
+localStorage.getItem('name')
